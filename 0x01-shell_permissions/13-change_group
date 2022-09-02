@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp school 13-change_group
