@@ -1,0 +1,1 @@
+echo - prints text or file content
