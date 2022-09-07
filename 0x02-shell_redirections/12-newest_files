@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -trls | head -n 10
+ls -Ftrls | head -n 10
